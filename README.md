@@ -1,2 +1,10 @@
-# alepissotti.github.io
-practica curso devops
+# Portafolio Navegación
+
+Este repositorio contiene un portafolio web básico con navegación entre tres páginas:
+
+- `docs/index.html` → Inicio
+- `docs/proyectos.html` → Proyectos
+- `docs/contacto.html` → Contacto
+- `docs/styles.css` → Estilos compartidos
+
+
